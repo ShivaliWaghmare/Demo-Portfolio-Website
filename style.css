@@ -1,0 +1,142 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    
+
+}
+
+h1 {
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto ;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+.para1 {
+    color: #66BFBF;
+    font-size: 1.5rem;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+    font-weight: normal;
+}
+
+h3 {
+    
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+a {
+    color: #11999E;
+}
+
+.top-container {
+    background-color: #DAF5FF;
+    height: 750px;
+   
+}
+.top-cloud {
+    height: 100px;
+    position :relative;
+    left: 400px;
+    top: 100px;
+
+}
+.bottom-cloud {
+    height: 100px;
+    position: absolute;
+    
+    
+}
+.mountain {
+    height: 250px;
+    position:relative ;
+    top: 130px;
+    
+}
+
+.women-img {
+    width: 25%;
+
+
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto ;
+    text-align: left;
+    line-height: 2;
+    padding: 2rem;
+}
+
+.html-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.css-img {
+    width: 25%;
+    float: right;
+    margin-left: 30px ;
+    
+}
+
+hr {
+    border: dotted grey 6px ; /* 1st=style 2nd=color 3rd=width  */
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+    
+}
+
+.contact-me {
+    padding: 2.5rem;
+    margin: 3rem ;
+}
+
+.btn {
+    border-style: solid;
+    border-radius: 50rem;
+    padding: 0.4rem;
+    background-color: #1A5F7A;
+    color: azure;
+}
+          /* use css buttom generator -> Search it on google  */
+.btn:hover {
+    background-color: #0EA293;
+}
+
+
+.bottom-container {
+    background-color: #66BFBF;/*#408E91;*/
+    margin-bottom: 0px;
+    height: 150px;
+  
+}
+ 
+.footer-link {
+    position: relative;
+    top: 35px;
+    margin: 10px 20px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.footer-link:hover {
+    background-color: white;
+    font-weight: bolder;
+}
+
+.copyright {
+    position: relative;
+    top: 30px;
+    font-size: 0.75rem;
+    padding: 20px 0px ;
+
+}
