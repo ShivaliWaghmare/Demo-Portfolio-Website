@@ -40,22 +40,30 @@ a {
    
 }
 .top-cloud {
-    height: 100px;
+    height: 130px;
     position :relative;
-    left: 400px;
+    left: 500px;
     top: 100px;
+    width: 25%;
 
 }
 .bottom-cloud {
-    height: 100px;
+    height: 130px;
+    width: 25%;
     position: absolute;
+    bottom: 200px;
+    left: 50px;
+    
     
     
 }
 .mountain {
-    height: 250px;
-    position:relative ;
-    top: 130px;
+    height: 700px;
+    position: absolute;
+    left: 300px;
+    top: 275px;
+
+   
     
 }
 
